@@ -6,4 +6,4 @@ Local Differential Privacy (LDP) provides provable privacy protection for data c
 
 ## Implementation
 
-The main function is PG1.m, which correspond to the results in Fig.2 of the paper. 
+The main function is PG1.m, which corresponds to the results in Fig. 2 of the paper. 
