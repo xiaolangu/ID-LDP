@@ -1,4 +1,4 @@
-# ID-LDP
+# ID-LDP: Providing Input-Discriminative Protection for Local Differential Privacy
 
 This is a sample code (in MATLAB) of our work [ID-LDP](https://arxiv.org/pdf/1911.01402.pdf) [ICDE' 20]
 
